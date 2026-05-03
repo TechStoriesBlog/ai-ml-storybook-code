@@ -18,8 +18,6 @@ Each chapter in this codebase corresponds to a chapter in the blog and includes:
 ### Chapter 04 — Linear Regression
 Learn how machines draw the best fit line from historical data and use it to make future predictions.
 
-*(More chapter examples will be added continuously.)*
-
 ---
 
 ## Why AI-ML-Storybook-Code?
